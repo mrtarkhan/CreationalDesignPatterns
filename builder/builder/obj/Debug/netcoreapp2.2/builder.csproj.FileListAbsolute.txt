@@ -1,0 +1,11 @@
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\bin\Debug\netcoreapp2.2\builder.deps.json
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\bin\Debug\netcoreapp2.2\builder.runtimeconfig.json
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\bin\Debug\netcoreapp2.2\builder.runtimeconfig.dev.json
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\bin\Debug\netcoreapp2.2\builder.dll
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\bin\Debug\netcoreapp2.2\builder.pdb
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\obj\Debug\netcoreapp2.2\builder.csprojAssemblyReference.cache
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\obj\Debug\netcoreapp2.2\builder.csproj.CoreCompileInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\obj\Debug\netcoreapp2.2\builder.AssemblyInfoInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\obj\Debug\netcoreapp2.2\builder.AssemblyInfo.cs
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\obj\Debug\netcoreapp2.2\builder.dll
+D:\tarkhan\work\Sharif\Projects\creational\builder\builder\obj\Debug\netcoreapp2.2\builder.pdb

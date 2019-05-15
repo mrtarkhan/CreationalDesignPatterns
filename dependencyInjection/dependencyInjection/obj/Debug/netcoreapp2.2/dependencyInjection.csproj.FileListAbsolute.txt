@@ -1,0 +1,11 @@
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\bin\Debug\netcoreapp2.2\dependencyInjection.deps.json
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\bin\Debug\netcoreapp2.2\dependencyInjection.runtimeconfig.json
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\bin\Debug\netcoreapp2.2\dependencyInjection.runtimeconfig.dev.json
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\bin\Debug\netcoreapp2.2\dependencyInjection.dll
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\bin\Debug\netcoreapp2.2\dependencyInjection.pdb
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\obj\Debug\netcoreapp2.2\dependencyInjection.csprojAssemblyReference.cache
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\obj\Debug\netcoreapp2.2\dependencyInjection.csproj.CoreCompileInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\obj\Debug\netcoreapp2.2\dependencyInjection.AssemblyInfoInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\obj\Debug\netcoreapp2.2\dependencyInjection.AssemblyInfo.cs
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\obj\Debug\netcoreapp2.2\dependencyInjection.dll
+D:\tarkhan\work\Sharif\Projects\creational\dependencyInjection\obj\Debug\netcoreapp2.2\dependencyInjection.pdb

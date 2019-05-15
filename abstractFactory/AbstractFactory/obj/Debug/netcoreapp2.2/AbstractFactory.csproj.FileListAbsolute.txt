@@ -1,0 +1,11 @@
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.csprojAssemblyReference.cache
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.AssemblyInfoInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.AssemblyInfo.cs
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.deps.json
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.runtimeconfig.json
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.runtimeconfig.dev.json
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.dll
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\bin\Debug\netcoreapp2.2\AbstractFactory.pdb
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.dll
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\abstractFactory\AbstractFactory\obj\Debug\netcoreapp2.2\AbstractFactory.pdb

@@ -1,0 +1,11 @@
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\bin\Debug\netcoreapp2.2\prototype.deps.json
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\bin\Debug\netcoreapp2.2\prototype.runtimeconfig.json
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\bin\Debug\netcoreapp2.2\prototype.runtimeconfig.dev.json
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\bin\Debug\netcoreapp2.2\prototype.dll
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\bin\Debug\netcoreapp2.2\prototype.pdb
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\obj\Debug\netcoreapp2.2\prototype.csproj.CoreCompileInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\obj\Debug\netcoreapp2.2\prototype.AssemblyInfoInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\obj\Debug\netcoreapp2.2\prototype.AssemblyInfo.cs
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\obj\Debug\netcoreapp2.2\prototype.dll
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\obj\Debug\netcoreapp2.2\prototype.pdb
+D:\tarkhan\work\Sharif\Projects\creational\prototype\prototype\obj\Debug\netcoreapp2.2\prototype.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\bin\Debug\netcoreapp2.2\singleton.deps.json
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\bin\Debug\netcoreapp2.2\singleton.runtimeconfig.json
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\bin\Debug\netcoreapp2.2\singleton.runtimeconfig.dev.json
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\bin\Debug\netcoreapp2.2\singleton.dll
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\bin\Debug\netcoreapp2.2\singleton.pdb
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\obj\Debug\netcoreapp2.2\singleton.csprojAssemblyReference.cache
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\obj\Debug\netcoreapp2.2\singleton.csproj.CoreCompileInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\obj\Debug\netcoreapp2.2\singleton.AssemblyInfoInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\obj\Debug\netcoreapp2.2\singleton.AssemblyInfo.cs
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\obj\Debug\netcoreapp2.2\singleton.dll
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\singleton\singleton\obj\Debug\netcoreapp2.2\singleton.pdb

@@ -1,0 +1,11 @@
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\bin\Debug\netcoreapp2.2\factoryMethod.deps.json
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\bin\Debug\netcoreapp2.2\factoryMethod.runtimeconfig.json
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\bin\Debug\netcoreapp2.2\factoryMethod.runtimeconfig.dev.json
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\bin\Debug\netcoreapp2.2\factoryMethod.dll
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\bin\Debug\netcoreapp2.2\factoryMethod.pdb
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\obj\Debug\netcoreapp2.2\factoryMethod.csprojAssemblyReference.cache
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\obj\Debug\netcoreapp2.2\factoryMethod.csproj.CoreCompileInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\obj\Debug\netcoreapp2.2\factoryMethod.AssemblyInfoInputs.cache
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\obj\Debug\netcoreapp2.2\factoryMethod.AssemblyInfo.cs
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\obj\Debug\netcoreapp2.2\factoryMethod.dll
+D:\tarkhan\work\Sharif\Projects\creational\factoryPattern\factoryMethod\obj\Debug\netcoreapp2.2\factoryMethod.pdb
